@@ -1,0 +1,12 @@
+{
+    "hdinsightJobSumission.ClusterConf": [
+        {
+            "name": "bd-test",
+            "filePath": "c:\\Source\\Sample-98-worldcup-dashboard\\HiveDashboard\\1.0 Loaddata.hql"
+        },
+        {
+            "name": "bd-test",
+            "filePath": "c:\\Source\\Sample-98-worldcup-dashboard\\HiveDashboard\\clusterTest.hql"
+        }
+    ]
+}
