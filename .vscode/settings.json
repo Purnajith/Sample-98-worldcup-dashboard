@@ -7,6 +7,10 @@
         {
             "name": "bd-test",
             "filePath": "c:\\Source\\Sample-98-worldcup-dashboard\\HiveDashboard\\clusterTest.hql"
+        },
+        {
+            "name": "bd-test",
+            "filePath": "c:\\Source\\Sample-98-worldcup-dashboard\\HiveDashboard\\2.0 DashboardQuaries.hql"
         }
     ]
 }
